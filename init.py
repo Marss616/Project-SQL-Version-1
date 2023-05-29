@@ -1,1 +1,0 @@
-# Initalizer of Project SQL
